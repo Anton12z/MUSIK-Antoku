@@ -1,14 +1,14 @@
 <p align="center"><img src="https://2.bp.blogspot.com/-eBu3-f3vzW0/V3E8UnYXsfI/AAAAAAAADHI/lJrPAoLSE70aO0F3W9fruZ8O-qJY76MSwCLcB/s1600/gambar-gerak-gif-chip-and-dale-terbaru.gif" style="width:100%"></p>
 
-# Music-KenKan
+# MUSIK-Antoku
 <p align="center">
   <img src="https://telegra.ph/file/c8227ff23fa75b9d2b9f7.jpg">
 </p>
 <h1 align="center">
-  <b>🎶 MUSIK KEN KAN</b>
+  <b>🎶 MUSIK An nto</b>
 </h1>
 
-![Repo 👁‍🗨](https://komarev.com/ghpvc/?username=kenkannih&color=red&style=flat-square&label=DILIHAT+👁‍🗨)
+![Repo 👁‍🗨](https://komarev.com/ghpvc/?username=antonih&color=red&style=flat-square&label=DILIHAT+👁‍🗨)
 
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
@@ -29,7 +29,7 @@
 - Channel Music Play
 ## TELEGRAM
 
-<b>OWNER [KEN KAN](https://t.me/kenkanasw)</b>
+<b>OWNER [Antoku](https://t.me/antokusw)</b>
 
 <b>GROUP MUSIKKU
 [@musikkugroup](https://t.me/mausikkugroup)</b>
@@ -41,13 +41,13 @@
 ### 💜 HEROKU
 
 <b>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/kenkannih/Music-KenKan"><img src="https://img.shields.io/badge/BUAT DIHEROKU-blue?style=for-the-badge&logo=heroku"width="310" height="50"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Anton12z/MUSIK-Antoku"><img src="https://img.shields.io/badge/BUAT DIHEROKU-blue?style=for-the-badge&logo=heroku"width="310" height="50"/></a></p>
 </b>
 
 ## VIA Repl.it
 Klik tombol dibawah untuk mengambil Pyrogram String Session Atau pilih p bukan t
 
-<a href="https://replit.com/@kenkannih/strings-session#main.py"><img src="https://img.shields.io/badge/STRINGS-SESSION-blue?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
+<a href="https://replit.com/@antonih/strings-session#main.py"><img src="https://img.shields.io/badge/STRINGS-SESSION-blue?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
 ## VIA BOT TELEGRAM
 Khusus strings pyrogram
@@ -56,15 +56,15 @@ Khusus strings pyrogram
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/kenkannih/Music-KenKan
-$ cd Music-Ken
+$ git clone https://github.com/Anton12z/MUSIK-Antoku
+$ cd MUSIK-Antoku
 # Upgrade sources
 # Install All Requirements 
 $ pip(3) install -r requirements.txt
 # Rename example.env to local.env and fill
 $ npm i -g npm
 # Start Bot 
-$ python(3) -m MusicKen
+$ python(3) -m MUSIK-Antoku
 ```
 
 ### 🛠️ Perintah
